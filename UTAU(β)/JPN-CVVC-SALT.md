@@ -1,6 +1,6 @@
 ---
-title: Intro
-layout: home
+title: UTAU
+layout: default
 nav_order: 2.5
 
 ---
