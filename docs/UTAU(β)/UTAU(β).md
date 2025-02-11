@@ -1,7 +1,7 @@
 ---
-title: UTAU
+title: UTAU(β)
 layout: default
-nav_order: 2.5
+nav_order: 2
 
 ---
 
