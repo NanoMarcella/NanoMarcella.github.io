@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: CODENAME:M-00
+description: a multi-purpose voicebank Publishing site
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://nanomarcella.github.io/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+logo: "/assets/images/M-00-LOGO.png"
+
+favicon_ico: "/assets/images/favicon.ico"
