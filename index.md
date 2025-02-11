@@ -1,6 +1,14 @@
 ---
 title: Intro
 layout: home
+nav_order: 1
+description: Hi!
+permalink: /
+title: UTAU
+layout: home
+nav_order: 2
+description: Hi!
+permalink: /
 ---
 
 Hi uh, this is CODENAME:M-00! You can read my name the way you like it, such as M-zero zero, double zero, double cipher, or simply M!
